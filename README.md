@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsan-rabobi" alt="ehsan-rabobi" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce backend**
+- 🔭 I’m currently working on **Ecommerce backend and mern estate**
 
-- 🌱 I’m currently learning **react node js**
+- 🌱 I’m currently learning **react and node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ehsan-Rabobi](https://github.com/Ehsan-Rabobi)
 
