@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ehsan Rabobi</h1>
-<h3 align="center">💻 A Full-Stack Developer | JavaScript • React • Node.js • TypeScript</h3>
+<h3 align="center">Front-End & Full-Stack Enthusiast | Focused on modern, clean web development</h3>
 
 <p align="center">
   <a href="https://github.com/Ehsan-Rabobi">
@@ -9,68 +9,48 @@
 
 ---
 
-### 🚀 About Me
+### 🧠 Technologies I Use
 
-I'm a self-taught full-stack developer from Iran with a strong passion for building scalable, performant, and user-friendly web applications.  
-With hands-on experience in JavaScript, React, Node.js, and MongoDB, I'm currently exploring the power of TypeScript and Next.js to build modern web solutions.
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
 
-I enjoy transforming complex problems into elegant solutions, writing clean and maintainable code, and constantly learning new technologies.
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Sass-hotpink?logo=sass&logoColor=white&style=flat-square" title="Sass"/>
+  <img src="https://mui.com/static/logo.png" title="MUI" width="40" height="40"/>
+  <img src="https://styled-components.com/logo.png" title="Styled Components" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/1908285?s=200&v=4" title="Formik" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/yjose/reactjs-popup/master/docs/logo.png" title="React Hook Form" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" title="Framer Motion" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/57648142?s=200&v=4" title="GSAP" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/leaflet.png" title="Leaflet" width="40" height="40"/>
 
-🔧 **Current Focus**:  
-- Building a scalable **Ecommerce backend** using REST APIs & MongoDB  
-- Developing a modern **real estate platform** with the **MERN stack**  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40" height="40"/>
 
-📚 **Actively Learning**:  
-- **TypeScript** for safer JavaScript  
-- **Next.js** for SSR and full-stack capabilities  
-- **Advanced Node.js** patterns and performance optimization  
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-mongoose-a-mongodb-object-modeling-tool-designed-to-work-in-an-asynchronous-environment-logo-shadow-tal-revivo.png" title="Mongoose"/>
 
-🎯 **Goal**:  
-To grow as a full-stack developer and contribute to impactful open-source and real-world projects.
-
-📂 All my work is available on [my GitHub profile](https://github.com/Ehsan-Rabobi).
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40"/>
+  <img src="https://redux.js.org/img/redux.svg" title="Redux" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 Keep Learning, Keep Building.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsan-rabobi&show_icons=true&theme=radical" alt="ehsan-rabobi" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-rabobi&layout=compact&theme=radical" alt="top-langs" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ehsan-rabobi&theme=darkhub&margin-w=10&row=1" alt="ehsan-rabobi" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Ehsan-Rabobi"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <em>"Simplicity, scalability, and performance are at the heart of everything I build."</em>
 </p>
