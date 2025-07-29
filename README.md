@@ -1,29 +1,76 @@
-<h1 align="center">Hi 👋, I'm ehsan rabobi</h1>
-<h3 align="center">A passionate developer from Iran</h3>
+<h1 align="center">👋 Hi, I'm Ehsan Rabobi</h1>
+<h3 align="center">💻 A Full-Stack Developer | JavaScript • React • Node.js • TypeScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsan-rabobi&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan-rabobi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsan-rabobi" alt="ehsan-rabobi" /></a> </p>
-
-- 🔭 I’m currently working on **Ecommerce backend and mern estate**
-
-- 🌱 I’m currently learning **react and node js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ehsan-Rabobi](https://github.com/Ehsan-Rabobi)
-
-- 💬 Ask me about **java script**
-
-- 📫 How to reach me **https://github.com/Ehsan-Rabobi**
-
-- 📄 Know about my experiences [I taught in a non-profit private school and conservatory for about 12 to 15 months.](I taught in a non-profit private school and conservatory for about 12 to 15 months.)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/Ehsan-Rabobi">
+    <img src="https://komarev.com/ghpvc/?username=ehsan-rabobi&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan-rabobi" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsan-rabobi&show_icons=true&locale=en&layout=compact" alt="ehsan-rabobi" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsan-rabobi&show_icons=true&locale=en" alt="ehsan-rabobi" /></p>
+I'm a self-taught full-stack developer from Iran with a strong passion for building scalable, performant, and user-friendly web applications.  
+With hands-on experience in JavaScript, React, Node.js, and MongoDB, I'm currently exploring the power of TypeScript and Next.js to build modern web solutions.
+
+I enjoy transforming complex problems into elegant solutions, writing clean and maintainable code, and constantly learning new technologies.
+
+🔧 **Current Focus**:  
+- Building a scalable **Ecommerce backend** using REST APIs & MongoDB  
+- Developing a modern **real estate platform** with the **MERN stack**  
+
+📚 **Actively Learning**:  
+- **TypeScript** for safer JavaScript  
+- **Next.js** for SSR and full-stack capabilities  
+- **Advanced Node.js** patterns and performance optimization  
+
+🎯 **Goal**:  
+To grow as a full-stack developer and contribute to impactful open-source and real-world projects.
+
+📂 All my work is available on [my GitHub profile](https://github.com/Ehsan-Rabobi).
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsan-rabobi&show_icons=true&theme=radical" alt="ehsan-rabobi" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-rabobi&layout=compact&theme=radical" alt="top-langs" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ehsan-rabobi&theme=darkhub&margin-w=10&row=1" alt="ehsan-rabobi" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Ehsan-Rabobi"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
